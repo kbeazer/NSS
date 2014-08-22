@@ -51,7 +51,7 @@ Error Logs Assignment
 	-Synopsis:
 
 6. Error_Log
-	-File Type: access log
+	-File Type: error log
 	-Dates: the dates are from when the user tried accessing the account.
 	-Unique Users:
 	-Data Export:
@@ -60,7 +60,7 @@ Error Logs Assignment
 	-Synopsis:
 
 7. Error_Log-20131117
-	-File Type: access log
+	-File Type: error log
 	-Dates: the dates are from when the user tried accessing the account.
 	-Unique Users:
 	-Data Export:
@@ -69,7 +69,7 @@ Error Logs Assignment
 	-Synopsis:
 
 8. Error_Log-20131124
-	-File Type: access log
+	-File Type: error log
 	-Dates: the dates are from when the user tried accessing the account.
 	-Unique Users:
 	-Data Export:
@@ -78,7 +78,7 @@ Error Logs Assignment
 	-Synopsis:
 
 9. Error_Log-20131201
-	-File Type: access log
+	-File Type: error log
 	-Dates: the dates are from when the user tried accessing the account.
 	-Unique Users:
 	-Data Export:
@@ -87,7 +87,7 @@ Error Logs Assignment
 	-Synopsis:
 
 10. Error_Log-20131201(1)
-	-File Type: access log
+	-File Type: error log
 	-Dates: the dates are from when the user tried accessing the account.
 	-Unique Users:
 	-Data Export:
@@ -96,7 +96,7 @@ Error Logs Assignment
 	-Synopsis:
 
 11. Error-Log-20131208
-	-File Type: access log
+	-File Type: error log
 	-Dates: the dates are from when the user tried accessing the account.
 	-Unique Users:
 	-Data Export:
@@ -105,7 +105,7 @@ Error Logs Assignment
 	-Synopsis:
 
 12. Messages
-	-File Type: access log
+	-File Type: message log
 	-Dates: the dates are from when the user tried accessing the account.
 	-Unique Users:
 	-Data Export:
