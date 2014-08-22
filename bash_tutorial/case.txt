@@ -1,0 +1,8 @@
+#!/bin/bash
+# This is an example of a case statement.
+a="cat"
+case $a in 
+	cat) echo "Feline";;
+	dog|puppy) echo "Canine";;
+	*) echo "No Match!";;
+esac
